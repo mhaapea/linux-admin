@@ -1,0 +1,2 @@
+***** /home/ubuntu/viikko3/report.sh
+
