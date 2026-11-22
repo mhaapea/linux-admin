@@ -4,4 +4,5 @@ Viikko2 jäänyt luurangoksi, vahingossa poistui viikko-3 tehtävän tekemisen y
 
 VIIKKO 4 
 -
-en nyt tänne siirtänyt uutta koodia backup serveriltä, mutta aikalailla poistin vain app.py tiedostosta UPDATE komennon, koska siinä tuli oikeus konflikteja
+En nyt tänne siirtänyt uutta koodia backup serveriltä, mutta aikalailla poistin vain app.py tiedostosta UPDATE komennon, koska siinä tuli oikeus konflikteja.
+Varmuuskopioinnin tein tehtävänannon mukaan, cronilla ajastettu tunnin välein // 0 * * * *
