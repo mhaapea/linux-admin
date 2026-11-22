@@ -1,4 +1,4 @@
-Linux-admin opintojakson viikkotehtäviä. Vahingossa pyyhin viikko 2 tehtävän kun kikkailin kolmannen tehtävän git yhteyksien kanssa niin se on nyt jäänyt luurangoksi kun tein sen uudestaan.
+Linux-admin opintojakson viikkotehtäviä. 
 -----------------------------------------
 Viikko2 jäänyt luurangoksi, vahingossa poistui viikko-3 tehtävän tekemisen yhteydessä
 
